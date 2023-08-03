@@ -29,7 +29,7 @@
     "placeholderText": "Select option",
     "isDisabled": false,
     "key": "eydroshedc",
-    "labelTextSize": "0.875rem",
+    "labelTextSize": "1rem",
     "isRequired": false,
     "isDeprecated": false,
     "rightColumn": 46,
